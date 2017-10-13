@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>first</title>
   </head>
   <body>
   hello
